@@ -2,7 +2,39 @@ import streamlit as st
 import numpy as np
 from prediction_helper import predict
 
+# Apply custom CSS
+st.markdown(
+    """
+    <style>
+    .main {
+        background-color: #f0f4f8;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    .stButton > button {
+        background-color: #4CAF50;
+        color: white;
+        font-size: 16px;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+    }
+    .stButton > button:hover {
+        background-color: #45a049;
+    }
+    .stTextInput > div > div > input {
+        background-color: #ffffff;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 st.title('Health Insurance Cost Predictor')
+st.markdown('<div class="main">', unsafe_allow_html=True)
 
 categorical_options = {
     'Gender': ['Male', 'Female'],
@@ -18,6 +50,7 @@ categorical_options = {
     ],
     'Insurance Plan': ['Bronze', 'Silver', 'Gold']
 }
+
 # Create four rows of three columns each
 row1 = st.columns(3)
 row2 = st.columns(3)
@@ -71,5 +104,7 @@ input_dict = {
 
 # Button to make prediction
 if st.button('Predict'):
-    prediction=predict(input_dict)
+    prediction = predict(input_dict)
     st.success(f'Predicted Health Insurance Cost: {prediction}')
+
+st.markdown('</div>', unsafe_allow_html=True)
