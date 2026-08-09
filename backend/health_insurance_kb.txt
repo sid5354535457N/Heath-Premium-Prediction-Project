@@ -1,0 +1,155 @@
+Here is your fully updated, comprehensive Indian Health Insurance Knowledge Base (Version 3.0).
+
+I have added the step-by-step buying guide and created a highly detailed, real-world calculation matrix for "How Much Cover to Take" based on age, income, city, and family size. This matrix uses current 2024-2026 Indian medical inflation standards and the "Super Top-up" strategy used by financial advisors.
+
+You can completely replace the text in your health_insurance_kb.txt file with this new document.
+
+Indian Health Insurance Knowledge Base for Chatbot / LLM (V3 - Comprehensive)
+System Directive: This document is the core knowledge base for an Indian health insurance chatbot. The chatbot must answer only from this knowledge base, the user's profile, and the specific policy document provided. If the answer is not present, it must state: "I do not have that information in the policy document." Policy wording always overrides this general guidance.
+
+1. Health Insurance Basics
+Health Insurance: A policy that reimburses or pays eligible medical expenses as per the policy terms and conditions.
+Premium: The amount the customer pays to buy and continue the policy. Note: Quoted premiums generally exclude the mandatory 18% GST.
+Sum Insured: The maximum amount the insurer will pay in one policy year.
+Family Floater: One policy where all family members share the same sum insured. Crucial Rule: The premium for a floater is calculated based on the age of the OLDEST member.
+Cashless Treatment: A facility where the insurer pays the hospital directly at a network hospital.
+Reimbursement Claim: The customer pays the hospital bill first and later claims the amount from the insurer.
+
+2. Crucial Regulatory Rules (Latest IRDAI Updates)
+Cashless Everywhere: Policyholders can get cashless treatment even at non-network hospitals.
+
+Condition: For planned surgery, inform the insurer 48 hours before. For emergencies, inform within 48 hours of admission.
+1-Hour / 3-Hour Rule: Insurers must provide initial cashless authorization within 1 hour, and final discharge authorization within 3 hours. If delayed beyond 3 hours, the insurer bears additional room rent.
+No Age Bar: Insurers cannot deny issuing a new policy to anyone based on maximum age.
+Moratorium Period: After exactly 60 months (5 years) of continuous coverage, the insurer cannot reject claims based on non-disclosures (unless proven fraud).
+Pro-rata Refund: Canceling mid-year guarantees a proportionate refund for the unexpired period.
+
+3. Important Insurance Terms
+Pre-existing Disease (PED): Any disease or injury existing before buying the policy (e.g., diabetes, hypertension). MUST be disclosed truthfully.
+Waiting Period: * Initial: Usually 30 days (accidents covered from day 1).
+
+PED: Maximum 3 years (reduced from 4 years by IRDAI).
+
+Specific disease: 1-2 years for slow ailments (cataract, joint issues).
+Co-pay: The fixed percentage of every claim the customer pays out of pocket.
+Deductible: A fixed amount the customer pays before the policy activates.
+Room Rent Cap: If the policy limits room rent and the user upgrades, the insurer proportionately reduces the entire surgery/doctor bill. Look for "No Room Rent Cap."
+Grace Period: A 30-day window to renew after expiry without losing waiting-period benefits (no coverage during these 30 days).
+ABHA ID: Using this digital ID speeds up claim processing via the NHCX.
+No Claim Bonus (NCB): Reward for claim-free years. Can increase Sum Insured or discount renewal premium.
+
+4. How Much Cover Should You Take? (Real-World Calculation Matrix)
+Health insurance needs depend on City Tier, Age, Dependents, and Income. Medical inflation in India is currently around 14%.
+
+A. The Baseline by City Tier (Minimum Requirement)
+
+Tier 1 (Metro - Mumbai, Delhi, BLR): Minimum ₹10 Lakh to ₹15 Lakh base cover.
+
+Tier 2 (Pune, Jaipur, Lucknow): Minimum ₹7 Lakh to ₹10 Lakh base cover.
+
+Tier 3 (Smaller Cities/Towns): Minimum ₹5 Lakh to ₹7 Lakh base cover.
+
+B. The Income Rule
+Your total health coverage (Base + Super Top-up) should ideally be 50% to 100% of your annual income, but NEVER lower than the City Tier baseline. E.g., If you earn ₹25 LPA in a Tier 2 city, your cover should be around ₹15L to ₹25L to protect your net worth.
+
+C. The Age & Dependent Multiplier
+
+Single / Unmarried (Age < 30): City baseline cover is sufficient.
+
+Married Couple (No Kids): City baseline + 50% (e.g., Tier 1 = ₹15L Floater).
+
+Married Couple with Kids: City baseline + 100% (e.g., Tier 1 = ₹20L Floater).
+
+Age > 45 Years: Critical illness risk rises. Add a ₹50 Lakh to ₹1 Crore "Super Top-up" policy.
+
+D. The "Parent Separation" Golden Rule
+Never add senior citizen parents (age 55+) to a Family Floater with young adults/kids. Because floater premiums are based on the oldest member, the premium will skyrocket, and the parents' health issues will exhaust the sum insured, leaving the young family unprotected.
+
+Action: Buy one Floater for Husband+Wife+Kids, and a separate, dedicated policy for Parents.
+
+E. The Ultimate Cost-Effective Strategy (Base + Super Top-up)
+Do not buy a flat ₹25 Lakh base policy (it is too expensive).
+
+Instead buy: A ₹5 Lakh Base Policy + a ₹20 Lakh "Super Top-up" Policy (with a ₹5 Lakh deductible). The base policy pays the first 5 lakhs, and the top-up kicks in for anything above that. This gives ₹25L total cover at almost half the premium.
+
+5. How to Buy a Health Insurance Policy
+Customers can purchase health insurance through:
+
+Online Aggregators: Portals like Policybazaar or Ditto to compare multiple plans.
+
+Directly from Insurers: Official websites/apps (e.g., HDFC Ergo, Care, Star Health).
+
+Licensed Advisors: Buying through a certified insurance broker or agent.
+
+Step-by-Step Buying Process:
+
+Calculate adequate Sum Insured based on city, income, and family size.
+
+Compare 2-3 short-listed plans checking for: No room rent limit, no co-pay, and low PED waiting periods.
+
+Fill out the proposal form. Rule: Practice 100% truthful disclosure. Declare all past surgeries, current medications, smoking, and alcohol habits.
+
+Undergo a tele-medical interview or physical medical test if requested by the underwriter.
+
+Pay the initial premium online.
+
+The policy document and health cards are issued upon underwriter approval.
+
+6. Tax Benefits Under Section 80D
+Premium must be paid via non-cash modes (UPI, card, net banking). Preventive check-ups (up to ₹5,000) are the only cash exception.
+
+Self/Spouse/Children: Max deduction ₹25,000 (₹50,000 if senior citizen).
+
+Parents: Additional ₹25,000 (₹50,000 if senior citizen).
+
+Max possible total claim: ₹1,00,000.
+
+Uninsured Seniors: If a senior (60+) has no health insurance, up to ₹50,000 can be claimed for their actual medical bills/medicines.
+
+7. Rider and Add-on Options
+OPD Rider: Covers out-patient doctor visits and diagnostics (usually expensive, only buy if frequently visiting hospitals).
+
+Consumables Rider: Covers disposable items (gloves, PPE, syringes). Highly recommended.
+
+Room Rent Waiver: Removes the room-rent limit cap.
+
+Super Top-up: Adds massive coverage after a deductible is crossed. Highly recommended.
+
+8. Practical Ways to Reduce Premium
+Use a Super Top-up: Combine a small base plan with a large super top-up.
+
+Buy multi-year policies: 2-year or 3-year payments offer 7% to 15% discounts.
+
+Stay claim-free: Earn NCB discounts.
+
+Join wellness programs: Track steps on insurer apps for renewal discounts.
+
+Improve health & quit smoking: Losing weight or quitting tobacco can lower future premiums.
+
+Apply a voluntary deductible: Only if you have emergency cash saved.
+
+9. Suggested Chatbot Answers (Q&A Bank)
+Q: How much insurance do I need if I earn 12 LPA in Pune with a wife and child?
+
+A: Pune is a Tier 2 city. For a married couple with a child, a base Family Floater of ₹10 Lakh to ₹15 Lakh is recommended. Following the income rule, your total cover should ideally be at least ₹12 Lakh (100% of income). A cost-effective way is to buy a ₹5 Lakh base plan and a ₹10 Lakh to ₹20 Lakh Super Top-up.
+
+Q: Should I add my 65-year-old mother to my family floater?
+
+A: No. You should buy a separate policy for your mother. Floater premiums are based on the oldest member, so adding her will significantly increase your premium. Also, her higher medical needs might exhaust the sum insured, leaving your younger family uncovered.
+
+Q: Can I go to a non-network hospital?
+
+A: Yes, under the "Cashless Everywhere" rule. You must inform the insurer 48 hours before a planned surgery, or within 48 hours of an emergency admission.
+
+10. LLM Safety & Execution Rules
+Strict Grounding: ALWAYS answer from this knowledge base or the specific policy document provided.
+
+No Guessing: Never guess if the answer is not available. State: "I do not have that information in the policy document."
+
+No Claim Guarantees: NEVER promise or guarantee claim approval. Always state that final approval is subject to the insurer's claims team.
+
+GST Reminder: Remind the user that an 18% GST applies to premiums.
+
+Disclosure: Aggressively encourage full, truthful disclosure of smoking habits, alcohol use, and pre-existing diseases.
+
+Tone: Polite, simple, practical, and highly cautious regarding financial/health advice. Use bullet points for readability.
